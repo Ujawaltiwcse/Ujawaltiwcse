@@ -1,6 +1,15 @@
-<h1 align="center">Hi I'm Ujawal Tiwari</h1>
-<h3 align="center">I’m a Full-stack developer, software developer, And quick learner as well as I’m very flexible in learning new technology
-</h3>
+<div>
+  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png">
+  <a href="https://github.com/geekyshow1?tab=followers">
+     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+  </a>
+  <h3>Hi, I'm Ujawal Tiwari</h3>
+  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
+    <a href="https://www.youtube.com/user/GeekyShow1">
+        <img align="center" src="" alt="" />
+    </a> having 0+ Subscribers.
+  </P> 
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujawaltiwcse&label=Profile%20views&color=0e75b6&style=flat" alt="UjawaltiwariG" /> </p>
 
