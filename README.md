@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png">
+  <img align="right" width="150" alt="Coding" src="https://github.com/ujawaltiwariG/UjawaltiwariG/blob/master/pandit.jpg?raw=true">
   <a href="https://github.com/geekyshow1?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a>
