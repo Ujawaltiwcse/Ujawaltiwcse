@@ -1,5 +1,6 @@
 <h1 align="center">Hi I'm Ujawal Tiwari</h1>
-<h3 align="center">Full Stack And Android App Developer</h3>
+<h3 align="center">I’m a Full-stack developer, software developer, And quick learner as well as I’m very flexible in learning new technology
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujawaltiwcse&label=Profile%20views&color=0e75b6&style=flat" alt="UjawaltiwariG" /> </p>
 
