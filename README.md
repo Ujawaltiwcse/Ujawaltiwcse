@@ -3,10 +3,10 @@
      
   </a>
   <h3>Hi, I'm Ujawal Tiwari</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
-    <a href="https://www.youtube.com/user/GeekyShow1">
+  <p>I’m a Full-stack developer, software developer, And quick learner as well as I’m very flexible in learning new technology
+<!--     <a href="">
         <img align="center" src="" alt="" />
-    </a> having 0+ Subscribers.
+    </a> having 0+ Subscribers. -->
   </P> 
 </div>
 
