@@ -2,7 +2,7 @@
   <img align="right" width="150" alt="Coding" src="https://github.com/ujawaltiwariG/UjawaltiwariG/blob/master/pandit.jpg?raw=true">
      
   </a>
-  <h3>Hi, I'm Ujawal Tiwari</h3>
+  <h2>Hi, I'm Ujawal Tiwari</h2>
   <p>I’m a Full-stack developer, software developer, And quick learner as well as I’m very flexible in learning new technology
 <!--     <a href="">
         <img align="center" src="" alt="" />
