@@ -93,5 +93,5 @@
 <a href="https://www.hackerearth.com/ujawaltiw0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ujawaltiw0011" height="30" width="40" /></a>
 </p>
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+<!----------------------------------- GitHub Stats Section ------------------------------------![Snake animation]([https://github.com/VaishnavGhenge/VaishnavGhenge/blob/output/github-contribution-grid-snake.svg](https://github.com/ujawaltiwariG/UjawaltiwariG/blob/master/main.yml))
 
