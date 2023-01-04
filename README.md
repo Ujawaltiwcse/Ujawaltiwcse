@@ -5,7 +5,7 @@
      
   </a>
   <h2>Hi, I'm Ujawal Tiwari</h2>
-  <p>I’m a Full-stack developer, software developer, And quick learner as well as I’m very flexible in learning new technology
+  <p>I’m a Full stack web and android app developer And quick learner as well as I’m very flexible in learning new technology
 <!--     <a href="">
         <img align="center" src="" alt="" />
     </a> having 0+ Subscribers. -->
