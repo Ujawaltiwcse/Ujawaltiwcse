@@ -86,11 +86,11 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me?</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujawaltiwari0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujawaltiwari0011" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujawaltiwarig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujawaltiwari0011" height="30" width="40" /></a>
 <a href="https://fb.com/ujawaltiwari0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujawaltiwari0011" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ujawaltiw0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ujawaltiw0011" height="30" width="40" /></a>
+<a href="https://http://www.gmail.com//ujawal0011@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ujawaltiw0011" height="30" width="40" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------![Snake animation]([https://github.com/VaishnavGhenge/VaishnavGhenge/blob/output/github-contribution-grid-snake.svg](https://github.com/ujawaltiwariG/UjawaltiwariG/blob/master/main.yml))
